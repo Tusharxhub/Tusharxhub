@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar kanti Dey</h1>
-<h3 align="center">Tushar DevX – A Passionate Web Developer, Creative Video Editor & UI/UX Enthusiast, Crafting Seamless Digital Experiences with Innovation and Precision 🚀🎬🎨</h3>
+<h3 align="center">Tusharxhub – A Passionate Web Developer, Creative Video Editor & UI/UX Enthusiast, Crafting Seamless Digital Experiences with Innovation and Precision 🚀🎬🎨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=flat" alt="tusharxhub" /> </p>
 
