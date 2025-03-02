@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar kanti Dey</h1>
 <h3 align="center">Tusharxhub – A Passionate Web Developer, Creative Video Editor & UI/UX Enthusiast, Crafting Seamless Digital Experiences with Innovation and Precision 🚀🎬🎨</h3>
 <p align="left">
-- 🔭 I’m working as ... <a href="https://github.com/Tusharxhub/Ai-Agent">Ai-Agent</a><br>
+- 🔭 I’m working on ... <a href="https://github.com/Tusharxhub/Ai-Agent">Ai-Agent</a><br>
 - 📚 I'm currently learning ... React, NodeJs, NextJs, Java, Tailwind<br>
 - 📫 How to reach me <a href="mailto:t.k.d.dey2033929837@gmail.com">t.k.d.dey2033929837@gmail.com</a>
 </p>
