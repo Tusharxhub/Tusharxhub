@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar kanti Dey</h1>
 <h3 align="center">Tusharxhub – A Passionate Web Developer, Creative Video Editor & UI/UX Enthusiast, Crafting Seamless Digital Experiences with Innovation and Precision 🚀🎬🎨</h3>
+<p align="left">- 🔭 I’m working as ...  Chatty<br>- 📚 I'm currently learning ... React, NodeJs , NextJs , Java , Tailwind<br>- 📫 How to reach me  t.k.d.dey2033929837@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=flat" alt="tusharxhub" /> </p>
 
