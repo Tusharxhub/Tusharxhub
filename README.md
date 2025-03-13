@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/http://x.com/dey2033929837" target="blank"><img src="https://img.shields.io/twitter/follow/http://x.com/dey2033929837?logo=twitter&style=for-the-badge" alt="http://x.com/dey2033929837" /></a> </p>
 
-- 🔭 I’m currently working on [Ai-Agent](https://github.com/Tusharxhub/Ai-Agent)
+- 🔭 I’m currently working on [Trimbit
+](https://github.com/Tusharxhub/Trimbit)
 
 - 🌱 I’m currently learning **React, NodeJs, NextJs, Java, Tailwind**
 
