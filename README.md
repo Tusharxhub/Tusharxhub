@@ -21,7 +21,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Trimbit](https://github.com/Tusharxhub/Trimbit)
+- 🔭 I’m currently working on [XchangeXpert](https://github.com/Tusharxhub/XchangeXpert)
 
 - 🌱 I’m currently learning **React, NodeJs, NextJs, Java, Tailwind**
 
