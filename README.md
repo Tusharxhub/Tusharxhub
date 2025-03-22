@@ -61,7 +61,7 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="50" width="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="50"  />
 </p>
 
 ---
