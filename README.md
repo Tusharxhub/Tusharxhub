@@ -28,10 +28,10 @@
 
 ### 🚀 About Me
 
-- 🔝 I’m currently working on [XchangeXpert](https://github.com/Tusharxhub/XchangeXpert)
+- 💽 I’m currently working on [XchangeXpert](https://github.com/Tusharxhub/XchangeXpert)
 - 🌱 I’m currently learning **React, NodeJs, NextJs, Java, Tailwind**
 - 💬 Ask me about **React, Java**
-- 📫 How to reach me **t.k.d.dey2033929837@gmail.com**
+- 📧 How to reach me **t.k.d.dey2033929837@gmail.com**
 
 ---
 
@@ -61,7 +61,7 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure" height="50" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="50" />
 </p>
 
 ---
