@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Tusharxhub.Tusharxhub" />
 
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;" />
@@ -8,6 +7,10 @@
 <h3>A Passionate Web Developer, Creative Video Editor & UI/UX Enthusiast, Crafting Seamless Digital Experiences with Innovation and Precision 🚀🎬🎨</h3>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+
+<p align="left">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Tusharxhub.Tusharxhub" />
+</p>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -72,4 +75,5 @@
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
+
 </div>
