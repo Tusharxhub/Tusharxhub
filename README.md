@@ -69,12 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharxhub&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<h2>🐍 My Contributions 🐍</h2>
-<p>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tusharxhub/Tusharxhub/output/github-contribution-grid-snake.svg" />
-</p>
 
-<hr/>
 
 <h2>⚡ Stats ⚡</h2>
 <p>
