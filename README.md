@@ -5,11 +5,11 @@
 <h3 align="center">🚀 Passionate Web Developer | 🎬 Creative Video Editor | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tusharxhub" />
+  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mendsalbert/mendsalbert/refs/heads/main/coding.gif" height="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </p>
 
 ---
@@ -17,14 +17,14 @@
 ## 🚀 About Me  
 
 - 💡 **Innovator** focused on crafting seamless digital experiences.  
-- 💽 Currently working on **[PopcornPlay](https://github.com/Tusharxhub/PopcornPlay)**.  
+- 💽 Currently working on **[GlossaX](https://github.com/Tusharxhub/GlossaX)**.  
 - 🌱 Learning **React, Node.js, Next.js, Java, Tailwind**.  
 - 💬 Ask me about **React & Java**.  
-- 📩 Reach me at **t.k.d.dey2033929837@gmail.com**.  
+- 📩 Reach me at **[t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)**.  
 
 ---
 
-## 🌐 Connect with Me  
+## 🤝 Let's Connect  
 
 <p align="center">
   <a href="https://twitter.com/dey2033929837" target="_blank">
@@ -40,19 +40,19 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/t_k_d_dey2033921" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="150"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="150"  />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=15&theme=radical&no-frame=true" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=15&theme=radical" alt="GitHub Profile Trophy" />
   </a> 
 </p>
 
@@ -77,3 +77,5 @@
 </div>
 
 ---
+
+<h2 align="center">💻 "Building the future, one line of code at a time." 🚀🔥</h2>
