@@ -17,7 +17,7 @@
 ## 🚀 About Me  
 
 - 💡 **Innovator** focused on crafting seamless digital experiences.  
-- 💽 Currently working on **[GlossaX](https://github.com/Tusharxhub/GlossaX)**.  
+- 💽 Currently working on **[PopcornPlay](https://github.com/Tusharxhub/PopcornPlay)**.  
 - 🌱 Learning **React, Node.js, Next.js, Java, Tailwind**.  
 - 💬 Ask me about **React & Java**.  
 - 📩 Reach me at **[t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)**.  
