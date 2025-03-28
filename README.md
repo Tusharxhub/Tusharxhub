@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+  <img src="https://raw.githubusercontent.com/mendsalbert/mendsalbert/refs/heads/main/coding.gif" height="150" />
 </p>
 
 ---
