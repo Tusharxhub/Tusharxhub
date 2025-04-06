@@ -16,11 +16,11 @@
 
 ## 🚀 About Me  
 
-- 💡 **Innovator** focused on crafting seamless digital experiences.  
-- 💽 Currently working on **[Alertify](https://github.com/Tusharxhub/Alertify)**.  
-- 🌱 Learning **React, Node.js, Next.js, Java, Tailwind**.  
-- 💬 Ask me about **React & Java**.  
-- 📩 Reach me at **[t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)**.  
+- 💡 A creative soul crafting **smooth digital experiences**.  
+- 🔧 Currently building **[Alertify](https://github.com/Tusharxhub/Alertify)** – Your smart notifier!  
+- 🌱 Exploring the depths of **React, Node.js, Next.js, Java, Tailwind**.  
+- 💬 Ask me anything about **Frontend or Java** – I love talking code!  
+- 📫 Reach out: **[Email Me](mailto:t.k.d.dey2033929837@gmail.com)**  
 
 ---
 
@@ -61,7 +61,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=15&theme=radical" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=15&theme=radical&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
   </a> 
 </p>
 
@@ -70,12 +70,12 @@
 ## ⚡ GitHub Stats  
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <br /><br />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 align="center">💻 "Building the future, one line of code at a time." 🚀🔥</h2>
+<h2 align="center">💻 "Building the future, one line of code at a time." 🚀🔥</h2> 
