@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;+Web+Dev+%7C+Video+Editor+%7C+UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=00FF00&lines=Hey+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;+Web+Dev+%7C+Video+Editor+%7C+UI%2FUX+Designer" />
 </h1>
 
-<h3 align="center">⚡ Passionate Developer | 🎬 Creative Storyteller | 🎨 Design Lover</h3>
+<h3 align="center" style="color: #00FF00;">⚡ Passionate Developer | 🎬 Creative Storyteller | 🎨 Design Lover</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -28,22 +28,22 @@
 
 <p align="center">
   <a href="https://twitter.com/dey2033929837" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-00ff00?style=for-the-badge&logo=twitter&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/tushar-kanti-dey-86185b28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/tushardevx01/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
   <a href="https://www.behance.net/tusharkantidey" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-00ff00?style=for-the-badge&logo=behance&logoColor=black" />
   </a>
   <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-00ff00?style=for-the-badge&logo=medium&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/t_k_d_dey2033921" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-00ff00?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=20&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=20&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
   </a> 
 </p>
 
@@ -70,12 +70,20 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=green_nur&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br /><br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 align="center">💻 “Turning code into reality, pixels into purpose.” ⚡</h2>
+## 🔝 Top Contributed Repositories  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+<h2 align="center" style="color:#00FF00;">💻 “Turning code into reality, pixels into purpose.” ⚡</h2>  
