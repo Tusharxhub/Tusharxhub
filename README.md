@@ -1,30 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;+Web+Developer+%7C+Video+Editor+%7C+UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;+Web+Dev+%7C+Video+Editor+%7C+UI%2FUX+Designer" />
 </h1>
 
-<h3 align="center">🚀 Passionate Web Developer | 🎬 Creative Video Editor | 🎨 UI/UX Enthusiast</h3>
+<h3 align="center">⚡ Passionate Developer | 🎬 Creative Storyteller | 🎨 Design Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 💡 A creative soul crafting **smooth digital experiences**.  
-- 🔧 Currently building **[Alertify](https://github.com/Tusharxhub/Alertify)** – Your smart notifier!  
-- 🌱 Exploring the depths of **React, Node.js, Next.js, Java, Tailwind**.  
-- 💬 Ask me anything about **Frontend or Java** – I love talking code!  
-- 📫 Reach out: **[Email Me](mailto:t.k.d.dey2033929837@gmail.com)**  
+- 💡 Crafting **smooth, interactive, pixel-perfect digital experiences**  
+- 🚧 Currently working on [**Alertify**](https://github.com/Tusharxhub/Alertify) – Smart notifications that work for you  
+- 🌊 Diving deep into **React | Node.js | Next.js | Java | Tailwind**  
+- 💬 Let’s talk about anything **Frontend or Java** – always up for a good dev chat  
+- 📬 Drop me a line: [**Email Me**](mailto:t.k.d.dey2033929837@gmail.com)  
 
 ---
 
-## 🤝 Let's Connect  
+## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://twitter.com/dey2033929837" target="_blank">
@@ -52,7 +52,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="150"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,azure,gcp,c,cpp,nestjs,bootstrap,gimp,illustrator,sketch,gitlab,markdown,intellij,pycharm,webstorm,npm,google,chrome,eslint,linkedin" height="140" />
 </p>
 
 ---
@@ -61,13 +61,13 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=15&theme=radical&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&margin-w=20&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
   </a> 
 </p>
 
 ---
 
-## ⚡ GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=react&border_radius=10" alt="GitHub Streak Stats" />
@@ -78,4 +78,4 @@
 
 ---
 
-<h2 align="center">💻 "Building the future, one line of code at a time." 🚀🔥</h2> 
+<h2 align="center">💻 “Turning code into reality, pixels into purpose.” ⚡</h2>
