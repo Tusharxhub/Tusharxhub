@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🎯 Building seamless, engaging digital experiences  
-- 🔔 Working on [**Alertify**](https://github.com/Tusharxhub/Alertify) – smart notification system  
+- 🔔 Currently working on [**AIerview**](https://github.com/Tusharxhub/aierview) – Full Stack Real-Time AI Voice Interview Platform  
 - 🧠 Diving into **React | Next.js | Node.js | Java | Tailwind CSS**  
 - 💬 Always up for a tech talk — especially **Frontend magic** & **Java power**  
 - 📫 [Email Me](mailto:t.k.d.dey2033929837@gmail.com)
