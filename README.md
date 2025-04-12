@@ -19,10 +19,11 @@
 ## 🚀 About Me
 
 - 🎯 Building seamless, engaging digital experiences  
-- 🔔 Currently working on [**AIerview**](https://github.com/Tusharxhub/aierview) – Full Stack Real-Time AI Voice Interview Platform  
+- 🔥 Currently crafting [**AIerview**](https://github.com/Tusharxhub/aierview) – A Real-Time AI Voice Interview Platform  
 - 🧠 Diving into **React | Next.js | Node.js | Java | Tailwind CSS**  
 - 💬 Always up for a tech talk — especially **Frontend magic** & **Java power**  
-- 📫 [Email Me](mailto:t.k.d.dey2033929837@gmail.com)
+- 📫 [Email Me](mailto:t.k.d.dey2033929837@gmail.com?subject=Let's%20Collaborate!&body=Hey%20Tushar%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20or%20collaborate%20on%20a%20project.%0A%0ALooking%20forward%20to%20your%20response!%0A%0ARegards%2C%0A)
+
 
 ---
 
