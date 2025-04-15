@@ -24,7 +24,6 @@
 - 💬 Always up for a tech talk — especially **Frontend magic** & **Java power**  
 - 📫 [Email Me](mailto:t.k.d.dey2033929837@gmail.com?subject=Let's%20Collaborate!&body=Hey%20Tushar%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20or%20collaborate%20on%20a%20project.%0A%0ALooking%20forward%20to%20your%20response!%0A%0ARegards%2C%0A)
 
-
 ---
 
 ## 🔗 Let's Connect  
@@ -83,4 +82,6 @@
 
 ---
 
-<h2 align="center">💻 “Turning code into reality, pixels into purpose.” ⚡</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=800&lines=💻+“Turning+code+into+reality,+pixels+into+purpose.”+⚡">
+</h2>
