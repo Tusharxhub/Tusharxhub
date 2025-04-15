@@ -83,5 +83,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=800&lines=💻+“Turning+code+into+reality,+pixels+into+purpose.”+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+sudo+commit+--amend+--no-edit;+💻+Hackin'+the+Frontend+Matrix;+🔐+Encrypting+Pixels+with+Code;+🧠+0%EF%B8%8F%E2%83%A3+Sleep+100%25+Logic;+🚀+Shipping+Code+Like+a+Cypherpunk" alt="Hardcore Dev Typing Animation" />
 </h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/6gW8YNn0CrcAAAAC/hacker-hackerman.gif" height="200" alt="Hackerman" />
+</p>
