@@ -1,91 +1,111 @@
+
+
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=00FFFF&lines=Hey+There!+%F0%9F%91%8B;+I'm+Tushar+Kanti+Dey!;+Web+Dev+%7C+Video+Editor+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=$+whoami;+Tushar+Kanti+Dey;+Web+Dev+%7C+Video+Editor+%7C+UI%2FUX+Architect;+Welcome+to+my+Digital+Realm" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-⚡ Passionate Developer | 🎬 Creative Storyteller | 🎨 Design Lover-6C5CE7?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170" alt="Coder GIF" />
+  <img src="https://img.shields.io/badge/Status-Creating%20Magic-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Visitors&color=00BFFF&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+```
+$ sudo apt-get install creativity
+> Installation complete.
 
-- 🎯 Building seamless, engaging digital experiences  
-- 🔥 Currently crafting [**AIerview**](https://github.com/Tusharxhub/aierview) – A Real-Time AI Voice Interview Platform  
-- 🧠 Diving into **React | Next.js | Node.js | Java | Tailwind CSS**  
-- 💬 Always up for a tech talk — especially **Frontend magic** & **Java power**  
-- 📫 [Email Me](mailto:t.k.d.dey2033929837@gmail.com?subject=Let's%20Collaborate!&body=Hey%20Tushar%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20or%20collaborate%20on%20a%20project.%0A%0ALooking%20forward%20to%20your%20response!%0A%0ARegards%2C%0A)
+$ cd ~/workspace/TusharKantiDey
+> Initializing... 🎨
+```
 
 ---
 
-## 🔗 Let's Connect  
+## 💡 About Me
+
+```bash
+🎯 Mission: Build seamless, futuristic digital interfaces
+🚀 Project: [AIerview](https://github.com/Tusharxhub/aierview) – Real-Time AI Voice Interview Platform
+🛠️ Tech Stack: React | Next.js | Tailwind | Node.js | Java
+💬 Interests: Frontend Systems | Design Language | Creative Tech
+📨 Connect: t.k.d.dey2033929837@gmail.com
+```
+
+---
+
+## 🌐 Social Terminal (Connect With Me)
 
 <p align="center">
-  <a href="https://twitter.com/dey2033929837" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tushar-kanti-dey-86185b28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tushardevx01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.behance.net/tusharkantidey" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/t_k_d_dey2033921" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://twitter.com/dey2033929837"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/tushardevx01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://behance.net/tusharkantidey"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://medium.com/@t.k.d.dey2033929837"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Toolbox
+
+```bash
+📦 Languages: HTML | CSS | JavaScript | Java | C++ | C
+⚙️ Frameworks: React | Next.js | Node.js | Tailwind CSS | NestJS
+🧪 Tools: MongoDB | Docker | Git | GitHub | VSCode
+🎨 UI/UX: Figma | Illustrator | Blender | GIMP
+☁️ Cloud: AWS | GCP
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,tailwind,mongodb,git,github,vscode,figma,blender,docker,aws,gcp,nestjs,cpp,c,npm,webstorm,pycharm,intellij,illustrator,gimp" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,tailwind,mongodb,git,github,vscode,figma,docker,aws,nestjs,cpp,c" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharxhub&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Tusharxhub&theme=tokyonight_duo&border_radius=10" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Tusharxhub&theme=github-light&border_radius=10" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=default&count_private=true&border_radius=10" />
   <br /><br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&layout=compact&theme=light&border_radius=10" />
 </p>
 
 ---
 
-## 💬 Dev Quote  
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=flat&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 🚀 Top Contributed Repositories  
+## ✨ Dev Quote
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+## 🚀 Repositories I’ve Upgraded
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=light&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+sudo+commit+--amend+--no-edit;+💻+Hackin'+the+Frontend+Matrix;+🔐+Encrypting+Pixels+with+Code;+🧠+0%EF%B8%8F%E2%83%A3+Sleep+100%25+Logic;+🚀+Shipping+Code+Like+a+Cypherpunk" alt="Hardcore Dev Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=$+sudo+chmod+777+~/brain;+💡+Designing+UIs+with+Precision;+🎯+Architecting+Frontend+Experiences;+🌟+Code+Meets+Creativity" alt="Terminal Animation" />
 </h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/6gW8YNn0CrcAAAAC/hacker-hackerman.gif" height="200" alt="Hackerman" />
+  <img src="https://media.tenor.com/OyUVgR6d_zkAAAAC/coding-guy.gif" height="200" />
 </p>
+
+
+
+
