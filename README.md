@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+whoami;+Tushar+Kanti+Dey;+Code+Ninja+%7C+Visual+Sorcerer+%7C+UI+Architect;+Access+granted...+Welcome+back+to+The+Matrix" alt="Typing SVG" />
 </h1>
@@ -29,8 +25,8 @@ $ cd ~/Matrix/TusharKantiDey
 
 ```bash
 🎯 Mission: Decode seamless, intelligent UI/UX experiences
-🧠 Focus: Real-Time Systems | Creative AI | Frontend Wizardry
-🧪 Stack: React | Next.js | Tailwind | Node.js | Java | C++
+🧠 Focus: ⚙️ Real-Time Systems | 🎨 Creative AI | 🖥️ Frontend Wizardry
+🧪 Stack: ⚛️ React | 🚀 Next.js | 🌈 Tailwind | 🌐 Node.js | ☕ Java | 💻 C++
 📡 Codebase: github.com/Tusharxhub
 💬 Ping: t.k.d.dey2033929837@gmail.com
 ```
@@ -52,11 +48,11 @@ $ cd ~/Matrix/TusharKantiDey
 ## 🧰 Hacker Toolbox
 
 ```bash
-🧬 Languages: HTML | CSS | JS | Java | C++ | C
-🧪 Frameworks: React | Next.js | Node.js | Tailwind CSS | NestJS
-🔩 Dev Tools: MongoDB | Git | Docker | GitHub | VSCode
-🎨 Design Deck: Figma | Illustrator | GIMP | Blender
-🌐 Cloud Infra: AWS | GCP
+🧬 Languages: 📝 HTML | 🎨 CSS | ⚙️ JS | ☕ Java | 💻 C++ | 🔠 C
+🧪 Frameworks: ⚛️ React | 🚀 Next.js | 🌈 Tailwind CSS | 🌐 Node.js | 🧱 NestJS
+🔩 Dev Tools: 🍃 MongoDB | 🔧 Git | 🐳 Docker | 🐙 GitHub | 🖥️ VSCode
+🎨 Design Deck: 🎯 Figma | ✒️ Illustrator | 🎨 GIMP | 🌀 Blender
+🌐 Cloud Infra: ☁️ AWS | ☁️ GCP
 ```
 
 <p align="center">
@@ -105,21 +101,19 @@ $ cd ~/Matrix/TusharKantiDey
 </h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/6gW8YNn0CrcAAAAC/hacker-hackerman.gif" height="200" />
+  <img src="https://media.tenor.com/hz0FqkZ00Z0AAAAC/matrix-terminal.gif" height="220" />
 </p>
 
 ---
 
-## 💡 Want the full hacker portfolio?
+## 🧬 Matrix Protocol Activated – Clone the Hackverse
 
 ```bash
 $ git clone https://github.com/Tusharxhub/hacker-portfolio
-> Matrix UI + terminal mode + Lottie FX + secrets unlocked ✅
+> Matrix UI + terminal FX + Lottie animations + voice mod uplink... ✅
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=✨+Blinking+cursor+ready;+🧠+Matrix+rain+active;+💥+Portfolio+under+cyber-mode" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=⌨️+System+Ready;+💀+Execute+Code;+🌌+Enter+The+Hacker+Verse" alt="Typing Terminal" />
 </p>
-
-
 
