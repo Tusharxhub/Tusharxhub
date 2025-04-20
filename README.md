@@ -1,9 +1,11 @@
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+whoami;+Tushar+Kanti+Dey;+Code+Ninja+%7C+Visual+Sorcerer+%7C+UI+Architect;+Access+granted...+Welcome+back+to+The+Matrix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+whoami;+Tushar+Kanti+Dey;+👨‍💻+Code+Ninja+%7C+🎬+Visual+Sorcerer+%7C+🎨+UI+Architect;+🔓+Access+Granted...+Welcome+Back+to+The+Matrix" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-System%20Online-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/System-Online-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
   <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Intrusions&color=00FF00&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -21,19 +23,19 @@ $ cd ~/Matrix/TusharKantiDey
 
 ---
 
-## 🧑‍💻 About Me
+## 👾 Who Am I?
 
 ```bash
-🎯 Mission: Decode seamless, intelligent UI/UX experiences
-🧠 Focus: ⚙️ Real-Time Systems | 🎨 Creative AI | 🖥️ Frontend Wizardry
+🎯 Mission: Decode seamless, intelligent UI/UX experiences.
+🧠 Focus: ⚙️ Real-Time Systems | 🤖 Creative AI | 🖥️ Frontend Wizardry
 🧪 Stack: ⚛️ React | 🚀 Next.js | 🌈 Tailwind | 🌐 Node.js | ☕ Java | 💻 C++
 📡 Codebase: github.com/Tusharxhub
-💬 Ping: t.k.d.dey2033929837@gmail.com
+💬 Ping Me: t.k.d.dey2033929837@gmail.com
 ```
 
 ---
 
-## 🧭 Ports Open – Connect with the Operator
+## 🛰️ Connect With The Operative
 
 <p align="center">
   <a href="https://twitter.com/dey2033929837"><img src="https://img.shields.io/badge/Twitter-00FF00?style=flat&logo=twitter&logoColor=black"/></a>
@@ -48,11 +50,11 @@ $ cd ~/Matrix/TusharKantiDey
 ## 🧰 Hacker Toolbox
 
 ```bash
-🧬 Languages: 📝 HTML | 🎨 CSS | ⚙️ JS | ☕ Java | 💻 C++ | 🔠 C
-🧪 Frameworks: ⚛️ React | 🚀 Next.js | 🌈 Tailwind CSS | 🌐 Node.js | 🧱 NestJS
-🔩 Dev Tools: 🍃 MongoDB | 🔧 Git | 🐳 Docker | 🐙 GitHub | 🖥️ VSCode
-🎨 Design Deck: 🎯 Figma | ✒️ Illustrator | 🎨 GIMP | 🌀 Blender
-🌐 Cloud Infra: ☁️ AWS | ☁️ GCP
+🧬 Languages:       📝 HTML | 🎨 CSS | ⚙️ JS | ☕ Java | 💻 C++ | 🔠 C
+🧪 Frameworks:      ⚛️ React | 🚀 Next.js | 🌈 Tailwind CSS | 🌐 Node.js | 🧱 NestJS
+🔩 Dev Tools:       🍃 MongoDB | 🔧 Git | 🐳 Docker | 🐙 GitHub | 🖥️ VSCode
+🎨 Design Suite:    🎯 Figma | ✒️ Illustrator | 🎨 GIMP | 🌀 Blender
+☁️ Cloud & Infra:   ☁️ AWS | ☁️ GCP
 ```
 
 <p align="center">
@@ -61,7 +63,7 @@ $ cd ~/Matrix/TusharKantiDey
 
 ---
 
-## 🔎 System Logs & Contributions
+## 📊 System Logs
 
 <p align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Tusharxhub&theme=matrix&border_radius=10" />
@@ -88,7 +90,7 @@ $ cd ~/Matrix/TusharKantiDey
 
 ---
 
-## 📦 Elite Repos Synced
+## 🚀 Elite Repos Synced
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=matrix&combine_all_yearly_contributions=true" />
@@ -97,7 +99,7 @@ $ cd ~/Matrix/TusharKantiDey
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+sudo+chmod+777+~/creativity;+🔒+Encrypting+Ideas+in+Code;+🚀+Injecting+Designs+into+Reality;+🎯+Frontend+with+Precision" alt="Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+sudo+chmod+777+~/creativity;+🔐+Encrypting+Ideas+into+Code;+🚀+Injecting+Designs+into+Reality;+🎯+Frontend+with+Precision" alt="Terminal Animation" />
 </h2>
 
 <p align="center">
@@ -106,11 +108,11 @@ $ cd ~/Matrix/TusharKantiDey
 
 ---
 
-## 🧬 Matrix Protocol Activated – Clone the Hackverse
+## 🧬 Clone the Hackverse
 
 ```bash
 $ git clone https://github.com/Tusharxhub/hacker-portfolio
-> Matrix UI + terminal FX + Lottie animations + voice mod uplink... ✅
+> Matrix UI ⚡ Terminal FX ⚡ Lottie Animations ⚡ Voice Uplink... ✅
 ```
 
 <p align="center">
