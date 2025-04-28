@@ -153,15 +153,5 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
 
-<br/>
-
----
-<br/>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Tusharxhub&icon=2&color=9" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Tusharxhub&icon=2&color=9" alt="Visitor Count" />
-  </a>
-</p>
 
 </div>
