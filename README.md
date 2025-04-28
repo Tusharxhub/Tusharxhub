@@ -1,121 +1,98 @@
+<div align="center">
 
+<h1>👋 Hey, what's up?</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+whoami;+Tushar+Kanti+Dey;+👨‍💻+Code+Ninja+%7C+🎬+Visual+Sorcerer+%7C+🎨+UI+Architect;+🔓+Access+Granted...+Welcome+Back+to+The+Matrix" alt="Typing SVG" />
-</h1>
+<p>I'm <b>Tushar Kanti Dey</b> — a Code Ninja, Visual Sorcerer, and UI Architect from Barasat, India.</p>
 
+<br/>
+
+---
+
+# 💫 About Me:
+🔭 Currently working on: Building dynamic apps with JavaScript and Next.js for smooth, responsive experiences.<br>
+👯 Open to collaborate on: Front-end projects, UI/UX design, and innovative web apps.<br>
+🤝 Looking for help with: Deep diving into JavaScript performance and best practices.<br>
+🌱 Currently learning: Advanced CSS and JavaScript.<br>
+💬 Ask me about: Web development, UI/UX, JavaScript, React, Next.js.<br>
+⚡ Fun fact: I once debugged a missing semicolon for 6 hours thinking it was a system issue! 😄
+
+<br/>
+
+# 🌐 Connect With Me:
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Online-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=tusharxhub&label=Intrusions&color=00FF00&style=flat-square" alt="Profile Views" />
+  <a href="https://behance.net/tusharkantidey" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tushardevx01" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/tkddey2033929837" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://x.com/dey2033929837" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:t.k.d.dey2033929837@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
+<br/>
 
-```bash
-$ sudo apt install hustle
-> Fetching dark magic...
-> Compiling dreams into code...
-> Execution complete ✅
-
-$ cd ~/Matrix/TusharKantiDey
-> Access granted. Welcome back, Operative Tushar 🔓
-```
-
----
-
-## 👾 Who Am I?
-
-```bash
-🎯 Mission: Decode seamless, intelligent UI/UX experiences.
-🧠 Focus: ⚙️ Real-Time Systems | 🤖 Creative AI | 🖥️ Frontend Wizardry
-🧪 Stack: ⚛️ React | 🚀 Next.js | 🌈 Tailwind | 🌐 Node.js | ☕ Java | 💻 C++
-📡 Codebase: github.com/Tusharxhub
-💬 Ping Me: t.k.d.dey2033929837@gmail.com
-```
-
----
-
-## 🛰️ Connect With The Operative
-
+# 💻 Tech Stack:
 <p align="center">
-  <a href="https://twitter.com/dey2033929837"><img src="https://img.shields.io/badge/Twitter-00FF00?style=flat&logo=twitter&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=flat&logo=linkedin&logoColor=black"/></a>
-  <a href="https://instagram.com/tushardevx01"><img src="https://img.shields.io/badge/Instagram-00FF00?style=flat&logo=instagram&logoColor=black"/></a>
-  <a href="https://behance.net/tusharkantidey"><img src="https://img.shields.io/badge/Behance-00FF00?style=flat&logo=behance&logoColor=black"/></a>
-  <a href="https://medium.com/@t.k.d.dey2033929837"><img src="https://img.shields.io/badge/Medium-00FF00?style=flat&logo=medium&logoColor=black"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,git,github,figma,c,cpp" alt="Tech Stack" />
 </p>
 
----
+<br/>
 
-## 🧰 Hacker Toolbox
-
-```bash
-🧬 Languages:       📝 HTML | 🎨 CSS | ⚙️ JS | ☕ Java | 💻 C++ | 🔠 C
-🧪 Frameworks:      ⚛️ React | 🚀 Next.js | 🌈 Tailwind CSS | 🌐 Node.js | 🧱 NestJS
-🔩 Dev Tools:       🍃 MongoDB | 🔧 Git | 🐳 Docker | 🐙 GitHub | 🖥️ VSCode
-🎨 Design Suite:    🎯 Figma | ✒️ Illustrator | 🎨 GIMP | 🌀 Blender
-☁️ Cloud & Infra:   ☁️ AWS | ☁️ GCP
-```
-
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,tailwind,mongodb,git,github,vscode,figma,docker,aws,nestjs,cpp,c&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tusharxhub&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&theme=blue-green&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
+<br/>
 
-## 📊 System Logs
-
+# 🏆 GitHub Trophies:
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Tusharxhub&theme=matrix&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=radical&count_private=true&border_radius=10" />
-  <br /><br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&hide=html&layout=compact&theme=matrix" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
 </p>
 
----
+<br/>
 
-## 🏆 Terminal Trophies
-
+# ✍️ Dev Quote:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=matrix&no-bg=true&margin-w=10" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
----
+<br/>
 
-## 🔮 Quote from the Shell
-
+# 🔝 Top Contributions:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
 
----
-
-## 🚀 Elite Repos Synced
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=matrix&combine_all_yearly_contributions=true" />
-</p>
+<br/>
 
 ---
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=$+sudo+chmod+777+~/creativity;+🔐+Encrypting+Ideas+into+Code;+🚀+Injecting+Designs+into+Reality;+🎯+Frontend+with+Precision" alt="Terminal Animation" />
-</h2>
+<br/>
 
 <p align="center">
-  <img src="https://media.tenor.com/hz0FqkZ00Z0AAAAC/matrix-terminal.gif" height="220" />
+  <a href="https://visitcount.itsvg.in/api?id=Tusharxhub&icon=2&color=9" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=Tusharxhub&icon=2&color=9" alt="Visitor Count" />
+  </a>
 </p>
 
----
-
-## 🧬 Clone the Hackverse
-
-```bash
-$ git clone https://github.com/Tusharxhub/hacker-portfolio
-> Matrix UI ⚡ Terminal FX ⚡ Lottie Animations ⚡ Voice Uplink... ✅
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=⌨️+System+Ready;+💀+Execute+Code;+🌌+Enter+The+Hacker+Verse" alt="Typing Terminal" />
-</p>
-
+</div>
