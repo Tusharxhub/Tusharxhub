@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1>👋 Hey, what's up?</h1>
-
-<p>I'm <b>Tushar Kanti Dey</b> — a Code Ninja, Visual Sorcerer, and UI Architect from Barasat, India.</p>
-
-<br/>
+![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+There!+I'm+Tushar+Kanti+Dey;UI+Architect+%7C+Code+Ninja+%7C+Visual+Sorcerer;Crafting+elegant+experiences+with+Next.js+and+JavaScript+✨)
 
 ---
 
