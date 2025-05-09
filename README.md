@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-🔭 Currently working on: Building dynamic apps with JavaScript and Next.js for smooth, responsive experiences.<br>
+🔭 Currently working on: *[codeflex](https://github.com/Tusharxhub/codeflex)*.<br>
 👯 Open to collaborate on: Front-end projects, UI/UX design, and innovative web apps.<br>
 🤝 Looking for help with: Deep diving into JavaScript performance and best practices.<br>
 🌱 Currently learning: Advanced CSS and JavaScript.<br>
