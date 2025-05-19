@@ -8,7 +8,7 @@
 🔭 Currently working on: *[codeflex](https://github.com/Tusharxhub/codeflex)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
 🤝 Seeking help with: JavaScript performance & best practices<br>
-🌱 Currently learning: Advanced CSS and JavaScript.<br>
+🌱 Currently learning: Tailwind css and JavaScript.<br>
 💬 Ask me about: Web development, UI/UX, JavaScript, React, Next.js.<br>
 ⚡ Fun fact: Spent 6 hours chasing a bug—turned out to be a missing semicolon! 😄
 
