@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-🔭 Currently working on: *[codeflex](https://github.com/Tusharxhub/codeflex)*.<br>
+🔭 Currently working on: *[Zenyte](https://github.com/Tusharxhub/Zenyte)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
 🤝 Seeking help with: JavaScript performance & best practices<br>
 🌱 Currently learning: Tailwind css and JavaScript.<br>
