@@ -1,74 +1,81 @@
 <div align="center">
 
-![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+There!+I'm+Tushar+Kanti+Dey;UI+Architect+%7C+Code+Ninja+%7C+Next.js+Warrior+%7C+OpenAI+Wizard&color=00FFB2&center=true)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=🔥+Tushar+Kanti+Dey+is+Here+!;🚀+Creative+UI+Architect+%7C+Code+Ninja+%7C+DevMatch+Creator;✨+Full-stack+Wizard+%7C+Design+Strategist+%7C+Next.js+Expert" alt="Typing SVG" />
 
-![logo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFA2&vCenter=true&multiline=true&width=700&height=80&lines=Crafting+Code+That+Feels+Like+Magic+✨;Building+Visually+Stunning+Experiences+🚀)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=radical&hide_border=true&title_color=00FFC6&icon_color=00FFB2&text_color=F8F8F2&bg_color=0d1117" width="48%" /> 
-<img src="https://streak-stats.demolab.com?user=Tusharxhub&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
+![profile banner](https://github.com/Tusharxhub/Tusharxhub/assets/104250756/2f6b04b2-07cc-4fc5-a7f1-c31f759e62a9)
 
 ---
 
-### 🧠 Tech Stack & Tools I Rock With
+### 👑 𝓗𝓮𝔂, 𝓘’𝓶 [Tushar Kanti Dey](https://darkaura.me) — aka **Tusharxhub**  
+🌌 Dreamer | 💻 Developer | 🎨 Designer | 🎯 Doer
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,tailwind,html,css,vercel,figma,github,git,mongodb,redux" />
-
----
-
-### 💎 Featured Projects
-
-| 🌐 Project | 🚀 Description |
-|-----------|----------------|
-| [**XchangeXpert**](https://xchange-xpert-sepia.vercel.app/) | Smart currency converter with animated UI & real-time rates |
-| [**Apple Site Clone**](https://iphone-nine-delta.vercel.app/) | Fully responsive Apple homepage with Next.js + GSAP |
-| [**CodeFlex**](https://github.com/Tusharxhub/codeflex) | All-in-one code sharing & preview platform |
-| [**DevMatch**](https://github.com/Tusharxhub/devmatch) | AI-powered developer matchmaking platform |
-| [**ProteinBind**](https://github.com/Tusharxhub/proteinbind) | Drug research visualization using NVIDIA API & Next.js |
+<a href="https://darkaura.me">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%F0%9F%92%AB%20DARKAURA.ME-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-### 🧬 Currently Building:
+### ⚡️ Tech Stack I'm Rockin'
 
-- ✨ A full-stack animated marketplace (Next.js + Clerk + Supabase)  
-- 🤝 AI-driven DevCollab platform with GitHub OAuth + real-time sync  
-- 🎮 Terminal-style portfolio with Matrix effect → [**darkaura.me**](https://darkaura.me)
-
----
-
-### 👑 Achievements & Stats
-
-- 🔥 100+ commits every month
-- 📌 Projects featured on GitHub trending
-- 💌 Loved by Open Source & Creators
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&layout=compact&theme=radical&title_color=00FFB2&text_color=F8F8F2&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,mongodb,typescript,javascript,html,css,figma,vercel,supabase,git,github,redux" />
+</p>
 
 ---
 
-### 📡 Let’s Connect & Collaborate
-
-[![Email](https://img.shields.io/badge/📧%20Email-DarkAura%20Connect-00ffcc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.k.d.dey2033929837@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Tusharxhub-22272e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusharxhub)
-[![Instagram](https://img.shields.io/badge/Instagram-@tushardevx01-FF0080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tushardevx01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DarkAura.me-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://darkaura.me)
-
----
-
-### 🧸 Fun Fact
-
-> _"You might find me debugging at midnight, listening to lo-fi, and designing magic with Tailwind."_ 🌙✨
+### 🧠 My Brain Runs On:
+- 🔮 **Next.js** – for lightning-fast websites  
+- 🖌️ **Tailwind CSS** + custom animations – for that *sexy* design  
+- 🧠 **OpenAI API + Redis** – AI meets performance  
+- 🧬 **NestJS + Neon DB** – solid backend structure  
+- 🔒 **Clerk Auth** – smooth login like butter  
+- 🌍 **Real-time WebSockets** – for the fast lane devs  
 
 ---
 
-### 💬 Motto
+### 🚀 Some of My Favorite Projects
 
-> *"Don't just code, craft experiences."*  
-> — Tushar DevX 💻🔥
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🌐 [**XchangeXpert**](https://xchange-xpert-sepia.vercel.app/) | Smart currency converter platform with API integration | `Next.js`, `Tailwind`, `Vercel` |
+| 💬 [**Chatty**](https://github.com/Tusharxhub/Chatty) | Real-time chat app | `Node.js`, `Socket.io`, `MongoDB` |
+| 🎯 [**DevMatch**](https://github.com/Tusharxhub) | Match developers by GitHub & StackOverflow | `Next.js`, `NestJS`, `Redis`, `NeonDB` |
+| ⚡ [**CodeFlex**](https://github.com/Tusharxhub/codeflex) | Dynamic code editor playground | `Next.js`, `Monaco`, `Tailwind` |
+| 🧬 [**ProteinBind**] | Drug research w/ NVIDIA API | `Next.js`, `OpenAI`, `SciTech` |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB2&height=120&section=footer"/>
+### 💎 GitHub Stats That Flex
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=radical&border_radius=20&count_private=true&hide_rank=false&include_all_commits=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=tokyonight&hide_border=false" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let’s Connect & Collab
+
+<p align="center">
+  <a href="mailto:t.k.d.dey2033929837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Tusharxhub"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tushardevx01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://darkaura.me"><img src="https://img.shields.io/badge/Portfolio-DarkAura.me-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌀 Random Vibe of the Day
+
+> *“Code like an artist, deploy like a ninja.”* 🥷✨  
+> — Tushar 🖤
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=200&section=footer)
 
 </div>
