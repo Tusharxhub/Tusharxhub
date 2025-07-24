@@ -1,89 +1,159 @@
 <div align="center">
-  
-![Header](https://readme-typing-svg.herokuapp.com/?font=Fredoka+One&size=32&duration=4000&color=E85D75&center=true&vCenter=true&width=900&height=70&lines=Hey+there,+I'm+Tushar+Kanti+Dey!;UI+Architect+%7C+Code+Ninja+%7C+Visual+Sorcerer;Turning+ideas+into+pixel+perfect+artistry+with+Next.js+%26+JavaScript+✨)
 
-<br/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+There!+I'm+Tushar+Kanti+Dey;UI+Architect+%7C+Code+Ninja+%7C+Visual+Sorcerer;I+transform+complex+problems+into+intuitive+and+beautiful+digital+experiences.✨)
 
 </div>
 
 ---
 
-## 🚀 Who Am I?
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-- 🛠️ *UI Architect | JavaScript Craftsman*
-- 🎨 *Pixel-perfectionist obsessed with delightful user experiences.*
-- 💡 *Always designing, building, and innovating in Next.js & React land.*
-- 🏄 *Riding the bleeding edge of frontend tech—with a splash of aesthetics.*
+### 👨‍💻 About Me
+
+- 🔭 I’m currently building **[Zenyte](https://github.com/Tusharxhub/Zenyte)**, pushing the boundaries of modern web applications.
+
+- 🌱 I’m deeply invested in mastering **Tailwind CSS** and advanced **JavaScript** performance patterns.
+
+- 👯 I’m always excited to collaborate on innovative **UI/UX projects, front-end architecture, and creative web apps**.
+
+- 🤝 I believe in continuous learning and I'm always looking to master **JavaScript best practices & high-performance coding**.
+
+- 💬 Ask me about **Web Development, UI/UX, JavaScript, React, and Next.js**. Let's talk tech!
+
+- ⚡ Fun fact: I once spent 6 hours chasing a bug that turned out to be a single missing semicolon. The thrill of the hunt! 😄
+
+<br>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://darkaura.me" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-3B3B3B?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://behance.net/tusharkantidey" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://x.com/dey2033929837" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:t.k.d.dey2033929837@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+    </td>
+    <td valign="top" width="40%">
+
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharxhub&show_icons=true&theme=catppuccin_dark&include_all_commits=true&count_private=true)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 What’s Cooking?
-
-- 🌟 **Building:** [`Zenyte`](https://github.com/Tusharxhub/Zenyte) — My magnum opus.
-- 🤝 **Collabs:** Open to UI/UX, creative web apps, and extra spicy frontend gigs.
-- 🧙 **Learning:** Tailwind CSS & deep JavaScript Jedi magic.
-- 🫡 **Ask me:** Everything about UI/UX, JS, React, Next.js (and some C++ wizardry).
-
----
-
-## 📲 Connect with Me
+### 📊 My GitHub Activity
 
 <p align="center">
-  <a href="https://behance.net/tusharkantidey"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://instagram.com/tushardevx01"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@t.k.d.dey2033929837"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="mailto:t.k.d.dey2033929837@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/dey2033929837"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-  <a href="https://pinterest.com/tkddey2033929837"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" /></a>
+  <a href="https://github.com/Tusharxhub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=catppuccin_dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/Tusharxhub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&theme=catppuccin_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tusharxhub">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharxhub&theme=catppuccin_dark&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  </a>
 </p>
 
 ---
 
-## 🦾 Tech Stack
+<details>
+<summary>🛠️ My Tech Stack & Tools</summary>
+<br>
 
-| Langs         | Frontend        | Backend          | Database           | Cloud/Deploy       | DevOps/Tools          | UI/UX & Design    |
-|:--------------|:---------------|:-----------------|:-------------------|:-------------------|:----------------------|:------------------|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) |
-
----
-
-## 📈 GitHub By the Numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=radical&hide_border=true" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&theme=radical&hide_border=true&layout=compact" width="350"/>
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
----
-
-## 🏆 Trophies Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=algolia&column=7&no-frame=true&margin-w=8"/>
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
----
-
-## ✍️ My Favorite Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+#### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
----
-
-## 🚩 Top 5 Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=radical&combine_all_yearly_contributions=true" width="650"/>
+#### **Databases & ORMs**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
+#### **Cloud, CI/CD & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+</p>
+
+#### **Design & UI/UX**
+<p>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6" />
+</p>
+</details>
+
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> *Chased a bug for 6 hours. Cause? Missing semicolon. True code ninja stuff.*
+### 🏆 My Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=catppuccin&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
