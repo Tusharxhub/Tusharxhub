@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-🔭 Currently working on: *[Rhythmix](https://github.com/Tusharxhub/Rhythmix)*.<br>
+🔭 Currently working on: *[atryx](https://github.com/Tusharxhub/atryx)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
 🤝 Seeking help with: JavaScript performance & best practices<br>
 🌱 Currently learning: Tailwind css and JavaScript.<br>
