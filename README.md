@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-🔭 Currently working on: *[atryx](https://github.com/Tusharxhub/atryx)*.<br>
+🔭 Currently working on: *[Everywhere](https://github.com/Tusharxhub/Everywhere)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
 🤝 Seeking help with: JavaScript performance & best practices<br>
 🌱 Currently learning: Tailwind css and JavaScript.<br>
