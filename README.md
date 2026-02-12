@@ -114,28 +114,12 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
 
-
 <br/>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusharxhub&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tusharxhub&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharxhub&theme=blue-green&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<br/>
-
-# 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tusharxhub&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-</p>
-
-<br/>
 
 # ✍️ Dev Quote:
 <p align="center">
@@ -150,3 +134,4 @@
 </p>
 
 </div>
+
