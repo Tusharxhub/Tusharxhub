@@ -16,19 +16,14 @@
 
 # 🌐 Connect With Me:
 <p align="center">
-  <a href="https://behance.net/tusharkantidey" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
-  </a>
+  
   <a href="https://instagram.com/tushardevx01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b" target="_blank">
+  <a href="https://linkedin.com/in/tushardevx01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@t.k.d.dey2033929837" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
-  </a>
-  <a href="https://pinterest.com/tkddey2033929837" target="_blank">
+  <a href="https://pinterest.com/tushardevx01" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" />
   </a>
   <a href="https://x.com/dey2033929837" target="_blank">
@@ -101,18 +96,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
 
-### Others
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
 
 <br/>
 
