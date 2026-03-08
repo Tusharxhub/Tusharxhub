@@ -117,8 +117,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&radius=16&theme=github-dark&area=true&order=5" height="300"/>
 </div>
+
+### 🔥 Streak Statistics
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 
 # ✍️ Dev Quote:
