@@ -3,7 +3,6 @@
 ![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+There!+I'm+Tushar+Kanti+Dey;UI+Architect+%7C+Code+Ninja+%7C+Visual+Sorcerer;Crafting+elegant+experiences+with+Next.js+and+JavaScript+✨)
 
 ---
-
 # 💫 About Me:
 🔭 Currently working on: *[SimpUI](https://github.com/AbhishekS04/SimpyUI)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
