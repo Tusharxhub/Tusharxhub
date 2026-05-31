@@ -9,7 +9,7 @@
 
 ---
 # 💫 About Me:
-🔭 Currently working on: *[SimpUI](https://github.com/AbhishekS04/SimpyUI)*.<br>
+🔭 Currently working on: *[Aegis](https://github.com/Tusharxhub/aegis)*.<br>
 👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
 🤝 Seeking help with: JavaScript performance & best practices<br>
 🌱 Currently learning: Tailwind css and JavaScript.<br>
