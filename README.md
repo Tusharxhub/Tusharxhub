@@ -110,11 +110,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&radius=16&theme=github-dark&area=true&order=5" height="300"/>
 </div>
 
-### 🔥 Streak Statistics
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tusharxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tusharxhub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tusharxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharxhub&theme=github-dark-blue&hide_border=true"/>
-</p>
 
 
 # ✍️ Dev Quote:
@@ -123,15 +123,5 @@
 </p>
 
 <br/>
-
-# 🔝 Top Contributions:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharxhub&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
-
-
-
-
-
 
 </div>
