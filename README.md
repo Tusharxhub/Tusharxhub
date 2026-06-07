@@ -20,7 +20,6 @@ I enjoy bridging the gap between **beautiful interfaces and strong engineering f
 <br/>
 
 
-
 <!-- Connect -->
 <h2>✦ Let's Architect Something Great</h2>
 <p>Whether it's a new product design, system architecture, or just geeking out over code—I'd love to connect.</p>
