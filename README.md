@@ -1,22 +1,29 @@
 
-
 <div align="center">
 
 ![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+There!+I'm+Tushar+Kanti+Dey;UI+Architect+%7C+Code+Ninja+%7C+Visual+Sorcerer;Crafting+elegant+experiences+with+Next.js+and+JavaScript+✨)
 
 ---
-# 💫 About Me:
-🔭 Currently working on: *[Aegis](https://github.com/Tusharxhub/aegis)*.<br>
-👯 Open to collaborate on: UI/UX, front-end, and creative web apps<br>
-🤝 Seeking help with: JavaScript performance & best practices<br>
-🌱 Currently learning: Tailwind css and JavaScript.<br>
-💬 Ask me about: Web development, UI/UX, JavaScript, React, Next.js.<br>
-⚡ Fun fact: Spent 6 hours chasing a bug—turned out to be a missing semicolon! 😄
+# 🚀 About Me
+
+I am a **Software Engineer, Full-Stack Developer & UI-Focused Builder** with a product-first mindset, passionate about creating digital products that are clean, scalable, and genuinely useful. I work across frontend, backend, databases, APIs, and system architecture, while keeping user experience, performance, and visual quality at the center of everything I build.
+
+I enjoy bridging the gap between **beautiful interfaces and strong engineering foundations**, turning complex ideas into smooth, intuitive, and production-ready applications. My focus is on building products that feel premium on the surface and remain reliable, maintainable, and thoughtfully structured behind the scenes.
+
+**🎯 What I'm Up To:**
+- **Building:** *[Aegis](https://github.com/Tusharxhub/aegis)* — an autonomous, self-healing DevOps platform.
+- **Exploring:** Advanced JavaScript performance, scalable Next.js architectures, and refined micro-animations.
+- **Collaborating:** Always open to discussing system design, creative web apps, and innovative frontend tooling.
+
+> *"Code is my canvas. Performance is my priority."*
 
 <br/>
 
 
-# 🌐 Connect With Me:
+
+<!-- Connect -->
+<h2>✦ Let's Architect Something Great</h2>
+<p>Whether it's a new product design, system architecture, or just geeking out over code—I'd love to connect.</p>
 <p align="center">
   
   <a href="https://instagram.com/tushardevx01" target="_blank">
