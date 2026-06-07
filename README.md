@@ -31,7 +31,7 @@
   <a href="https://x.com/dey2033929837" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" />
   </a>
-  <a href="mailto:t.k.d.dey2033929837@gmail.com" target="_blank">
+  <a href="mailto:thetushardev0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
