@@ -103,13 +103,21 @@
 
 <br/>
 
+## 📊 Metrics & Activity
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&radius=16&theme=github-dark&area=true&order=5" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tusharxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tusharxhub&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=tusharxhub&theme=dark&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusharxhub&theme=dark&hide_border=true&bg_color=000000&layout=compact" alt="Top Languages" />
+</div>
+<br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tusharxhub&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+</div>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tusharxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
