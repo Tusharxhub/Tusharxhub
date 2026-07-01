@@ -1,16 +1,17 @@
 <div align="center">
 
-![Banner](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&width=700&height=150&color=E23636&alt_color=5085C8&lines=With+Great+Power+Comes+Great+Code;I'm+Tushar+Kanti+Dey+-+UI+Architect;Your+Friendly+Neighborhood+Developer;Swinging+through+Next.js+and+JavaScript+🕸️)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&multiline=true&width=750&height=130&lines=🕷️+//+SYSTEM+BOOTED+%3A+Tushar+Kanti+Dey;UI+Architect+%7C+Full-Stack+Engineer+%7C+Builder;With+Great+Power+Comes+Great+Code+🕸️;Swinging+through+Next.js%2C+DevOps+%26+beyond...)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E23636,0D1117,5085C8&height=6&section=header" width="100%"/>
+</div>
 
-# 🕷️ System Booted: Tushar Kanti Dey
+## 🕷️ > *The city never sleeps. Neither does the terminal.*
 
-I am a **Software Engineer, Full-Stack Developer & UI-Focused Builder** with a product-first mindset and a strong eye for polished digital experiences. I build applications that are clean on the surface, powerful under the hood, and structured well enough to survive real-world production pressure.
+I'm **Tushar Kanti Dey** — a **Software Engineer, Full-Stack Developer & UI Architect** operating from the shadows of the dev-verse. I don't just write code — I architect systems. I don't just ship features — I ship experiences that hold up under production pressure, scale under load, and look premium doing it.
 
-Like a developer upgrading his own tech suit, I move across **frontend, backend, databases, APIs, system architecture, performance, and visual design**. My goal is simple: create products that feel smooth, look premium, and work reliably when it matters most.
+My stack isn't a list of tools. It's a **web-shooter** — precisely engineered, always ready, and built to swing across any challenge: frontend aesthetics, backend reliability, cloud infrastructure, API design, or DevOps pipelines. I move across all of it, and I move fast.
 
-I enjoy connecting the dots between **beautiful interfaces and strong engineering foundations**. For me, great software is not only about writing code, it is about building systems that users trust, teams can scale, and developers can maintain without chaos.
+I believe the best software is **invisible to the user** — so seamless it feels like it was always there. Building that takes craftsmanship, not shortcuts.
 
 <br/>
 
