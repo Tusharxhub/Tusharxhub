@@ -30,7 +30,9 @@ I enjoy connecting the dots between **beautiful interfaces and strong engineerin
 
 ## 🕸️ Signal the Web
 
-Got an idea, product, design challenge, system architecture problem, or just want to talk about code? Drop a signal into the dev-web. I am always open to meaningful conversations and creative collaborations.
+<div align="center">
+
+*Got an idea, a system to build, or just want to talk code? Drop a signal. I'm always open.*
 
 <br/>
 
@@ -59,7 +61,7 @@ Got an idea, product, design challenge, system architecture problem, or just wan
 
 ## ⚡ Web-Shooter Arsenal
 
-<br/>
+<div align="center">
 
 ### Programming Languages
 
@@ -132,10 +134,7 @@ Got an idea, product, design challenge, system architecture problem, or just wan
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+
 
 <br/>
 
