@@ -17,6 +17,7 @@ I enjoy connecting the dots between **beautiful interfaces and strong engineerin
 **🎯 Current Missions in the Dev-Verse:**
 
 - **Building:** *[Aegis](https://github.com/Tusharxhub/aegis)* — an autonomous, self-healing DevOps platform designed like my own command center for resilient systems.
+- **Making:** *[Enggvault](https://github.com/Enggvault)* — a clean engineering notes vault for students learning development, DevOps, cloud, and modern tech.
 - **Exploring:** Advanced JavaScript performance, scalable Next.js architecture, micro-interactions, and clean UI engineering.
 - **Collaborating:** Open to working with teams on system design, creative web apps, developer tools, and high-impact product experiences.
 
