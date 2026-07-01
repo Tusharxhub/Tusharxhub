@@ -3,7 +3,8 @@
 ![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&multiline=true&width=750&height=130&lines=🕷️+//+SYSTEM+BOOTED+%3A+Tushar+Kanti+Dey;UI+Architect+%7C+Full-Stack+Engineer+%7C+Builder;With+Great+Power+Comes+Great+Code+🕸️;Swinging+through+Next.js%2C+DevOps+%26+beyond...)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E23636,0D1117,5085C8&height=6&section=header" width="100%"/>
-</div>
+
+<br/>
 
 ## 🕷️ > *The city never sleeps. Neither does the terminal.*
 
@@ -17,52 +18,50 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 **🎯 Current Missions in the Dev-Verse:**
 
-- **Building:** *[Aegis](https://github.com/Tusharxhub/aegis)* — an autonomous, self-healing DevOps platform designed like my own command center for resilient systems.
-- **Making:** *[Enggvault](https://github.com/Enggvault)* — a clean engineering notes vault for students learning development, DevOps, cloud, and modern tech.
-- **Exploring:** Advanced JavaScript performance, scalable Next.js architecture, micro-interactions, and clean UI engineering.
-- **Collaborating:** Open to working with teams on system design, creative web apps, developer tools, and high-impact product experiences.
+ **Building:** *[Aegis](https://github.com/Tusharxhub/aegis)* — an autonomous, self-healing DevOps platform designed like my own command center for resilient systems.
+
+ **Making:** *[Enggvault](https://github.com/Enggvault)* — a clean engineering notes vault for students learning development, DevOps, cloud, and modern tech.
+
+ **Exploring:** Advanced JavaScript performance, scalable Next.js architecture, micro-interactions, and clean UI engineering.
+
+ **Collaborating:** Open to working with teams on system design, creative web apps, developer tools, and high-impact product experiences.
 
 <br/>
 
-> *"With great power comes great responsibility... and with great code comes scalable architecture."*
+🕷️ *"With great power comes great responsibility... and with great code comes scalable architecture."* 🕸️
 
 <br/>
 
 
 ## 🕸️ Signal the Web
 
-<div align="center">
-
 *Got an idea, a system to build, or just want to talk code? Drop a signal. I'm always open.*
 
 <br/>
 
-<p align="center">
+<a href="https://instagram.com/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://pinterest.com/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" />
+</a>
+<a href="https://x.com/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+</a>
+<a href="mailto:thetushardev0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://instagram.com/tushardevx01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tushardevx01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pinterest.com/tushardevx01" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://x.com/tushardevx01" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:thetushardev0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
+<br/>
 <br/>
 
 
 ## ⚡ Web-Shooter Arsenal
 
-<div align="center">
+<br/>
 
 **Languages**
 
@@ -72,6 +71,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+<br/>
 
 **Frontend**
 
@@ -84,6 +85,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618.svg?style=flat&logo=radix-ui&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 
+<br/>
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -92,6 +95,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
+<br/>
+
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -99,6 +104,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+
+<br/>
 
 **Cloud & Deployment**
 
@@ -111,6 +118,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white)
 
+<br/>
+
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -119,38 +128,41 @@ I believe the best software is **invisible to the user** — so seamless it feel
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
+<br/>
+
 **Design**
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-</div>
-
-
-
+<br/>
+<br/>
 
 ---
 
-### 📊 Daily Bugle — Commit Log
+<br/>
 
-<div align="center">
+## 📊 Daily Bugle — Commit Log
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&bg_color=141321&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
 
 <br/>
+<br/>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.shion.dev/api?username=tusharxhub&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusharxhub&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
+<br/>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com/?user=tusharxhub&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
+<br/>
 <br/>
 
 
@@ -158,9 +170,7 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 <br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
 <br/>
 
