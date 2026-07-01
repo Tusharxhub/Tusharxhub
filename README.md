@@ -64,89 +64,78 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 <div align="center">
 
-### Programming Languages
+**Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-<br/>
+**Frontend**
 
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618.svg?style=flat&logo=radix-ui&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 
-<br/>
+**Backend**
 
-### Backend Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-<br/>
-
-### Databases
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-<br/>
-
-### Cloud & Deployment
+**Cloud & Deployment**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white)
 
-<br/>
+**DevOps & Tools**
 
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<br/>
+**Design**
 
-### UI/UX & Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+</div>
 
-<br/>
 
 
-## 📊 Daily Bugle Telemetry
 
-<br/>
+---
+
+### 📊 Daily Bugle — Commit Log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&bg_color=0D1117&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="300" alt="GitHub Activity Graph" />
-</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&bg_color=141321&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
 
 <br/>
 
