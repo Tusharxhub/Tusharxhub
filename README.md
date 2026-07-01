@@ -47,7 +47,7 @@ I enjoy connecting the dots between **beautiful interfaces and strong engineerin
   <a href="https://pinterest.com/tushardevx01" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://x.com/dey2033929837" target="_blank">
+  <a href="https://x.com/tushardevx01" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="mailto:thetushardev0@gmail.com" target="_blank">
