@@ -18,7 +18,7 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 **🎯 Current Missions in the Dev-Verse:**
 
- **Building:** *[Aegis](https://github.com/Tusharxhub/aegis)* — an autonomous, self-healing DevOps platform designed like my own command center for resilient systems.
+ **Building:** *[Aegis](https://github.com/Tushardevx01/aegis)* — an autonomous, self-healing DevOps platform designed like my own command center for resilient systems.
 
  **Making:** *[Enggvault](https://github.com/Enggvault)* — a clean engineering notes vault for students learning development, DevOps, cloud, and modern tech.
 
@@ -144,22 +144,22 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 ## 📊 Daily Bugle — Commit Log
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharxhub&bg_color=141321&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushardevx01&bg_color=141321&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
 
 <br/>
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.shion.dev/api?username=tusharxhub&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusharxhub&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 <br/>
 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=tusharxhub&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tushardevx01&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br/>
