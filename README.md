@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 ![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&multiline=true&width=750&height=130&lines=🕷️+//+SYSTEM+BOOTED+%3A+Tushar+Kanti+Dey;UI+Architect+%7C+Full-Stack+Engineer+%7C+Builder;With+Great+Power+Comes+Great+Code+🕸️;Swinging+through+Next.js%2C+DevOps+%26+beyond...)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E23636,0D1117,5085C8&height=6&section=header" width="100%"/>
