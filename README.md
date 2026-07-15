@@ -170,7 +170,5 @@ I believe the best software is **invisible to the user** — so seamless it feel
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
 <br/>
-
 </div>
