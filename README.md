@@ -39,6 +39,9 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 <br/>
 
+<a href="https://x.com/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+</a>
 <a href="https://instagram.com/tushardevx01" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
