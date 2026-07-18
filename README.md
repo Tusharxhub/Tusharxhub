@@ -48,8 +48,8 @@ I believe the best software is **invisible to the user** — so seamless it feel
 <a href="https://pinterest.com/tushardevx01" target="_blank">
   <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" />
 </a>
-<a href="https://x.com/tushardevx01" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+<a href="https://discordapp.com/users/tushardevx01" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:thetushardev0@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
