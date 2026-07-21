@@ -161,7 +161,7 @@ I believe the best software is **invisible to the user** — so seamless it feel
 <br/>
 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=Tushardevx01&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=Tushardevx01&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br/>
