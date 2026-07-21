@@ -152,9 +152,9 @@ I believe the best software is **invisible to the user** — so seamless it feel
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.shion.dev/api?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
