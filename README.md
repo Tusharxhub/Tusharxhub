@@ -167,7 +167,6 @@ I believe the best software is **invisible to the user** — so seamless it feel
 <br/>
 <br/>
 
-
 ## 🕷️ Spidey Sense Runtime Quote
 
 <br/>
